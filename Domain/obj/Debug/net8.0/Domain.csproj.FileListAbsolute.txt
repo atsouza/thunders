@@ -1,0 +1,15 @@
+F:\testesTecnicos\thunders\Domain\bin\Debug\net8.0\Domain.deps.json
+F:\testesTecnicos\thunders\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+F:\testesTecnicos\thunders\Domain\bin\Debug\net8.0\Domain.dll
+F:\testesTecnicos\thunders\Domain\bin\Debug\net8.0\Domain.pdb
+F:\testesTecnicos\thunders\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+F:\testesTecnicos\thunders\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\testesTecnicos\thunders\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+F:\testesTecnicos\thunders\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+F:\testesTecnicos\thunders\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+F:\testesTecnicos\thunders\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+F:\testesTecnicos\thunders\Domain\obj\Debug\net8.0\Domain.dll
+F:\testesTecnicos\thunders\Domain\obj\Debug\net8.0\refint\Domain.dll
+F:\testesTecnicos\thunders\Domain\obj\Debug\net8.0\Domain.pdb
+F:\testesTecnicos\thunders\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+F:\testesTecnicos\thunders\Domain\obj\Debug\net8.0\ref\Domain.dll
